@@ -1,12 +1,23 @@
-## Design-Interaction
-Repo for TUBES - interaction design RB - Kelompok 2
+# 🫶🏿 SEHATIN -- Aplikasi Interaktif Pemantau Kesehatan Mental
 
-## Team
+## ✒️ Deskripsi Aplikasi
+Sehatin adalah aplikasi mobile yang dirancang sebagai solusi komprehensif untuk kesehatan mental dengan fitur utama monitoring, telemedicine, dan edukasi.
+
+## ✨ Fitur-fitur Utama
+
+## 🧠 Metode yang Digunakan
+
+## 🎨 Design & Prototype 
+
+## 👨🏿‍🎨 Tim Pengembang - Donquixote (Don-qi-ho-te)
 | Name | NIM | Github |
 |----------|----------|----------|
-| Reyhan Oktavian Putra  | 123140202  | [Ondor-R](https://github.com/Ondor-R) |
-| Dzaky Pramadhani  | 123140208  | [WillJe65](https://github.com/WillJe65) |
-| Muhammad Piela Nugraha  | 123140200  | [Piela](https://github.com/02-123140200-MuhammadPielaNugraha) |
-| Alliyah Salsabilla | 123140014 | [Alliyahsalsa](https://github.com/Alliyahsalsa) |
-| Muhammad Fatahillah Farid  | 123140203 | [SirFarid](https://github.com/07-203-MuhammadFatahillahFarid) |
+| Reyhan Oktavian Putra  | 123140202  | Ondor-R |
+| Dzaky Pramadhani  | 123140208  | WillJe65 |
+| Muhammad Piela Nugraha  | 123140200  | Piela |
+| Alliyah Salsabilla | 123140014 | Alliyahsalsa |
+| Muhammad Fatahillah Farid  | 123140203 | SirFarid |
 
+Dosen Pengampu: Amirul Iqbal, S.Kom., M.Eng.
+
+## 📝 Link Laporan
