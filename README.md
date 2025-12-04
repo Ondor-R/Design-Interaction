@@ -4,6 +4,10 @@
 Sehatin adalah aplikasi mobile yang dirancang sebagai solusi komprehensif untuk kesehatan mental dengan fitur utama monitoring, telemedicine, dan edukasi.
 
 ## ✨ Fitur-fitur Utama
+1. Mood tracker harian interaktif
+2. Visualisasi grafik & insight
+3. Tips coping
+4. Mini journal
 
 ## 🧠 Metode yang Digunakan
 
