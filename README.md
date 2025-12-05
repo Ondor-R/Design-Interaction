@@ -18,6 +18,7 @@ https://www.figma.com/design/NCDEaAfbae4kyvUGWWMoWT/Desain-Interaksi-Kel-2?node-
 - Figjam :
 https://www.figma.com/board/cGdj52FoA9S0k25q6I7O4A/SEHATIN?node-id=0-1&p=f&t=s4myjTpLtvZD9Qpy-0
 
+![figjam_scheme]("https://github.com/Ondor-R/Design-Interaction/blob/main/Referensi/image.png")
 
 ## 👨🏿‍🎨 Tim Pengembang - Donquixote (Don-qi-ho-te)
 | Name | NIM | Github |
