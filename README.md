@@ -16,6 +16,7 @@ Sehatin adalah aplikasi mobile yang dirancang sebagai solusi komprehensif untuk 
 https://www.figma.com/design/NCDEaAfbae4kyvUGWWMoWT/Desain-Interaksi-Kel-2?node-id=130-52&t=iMwIojWTqM9fu1ic-1
 
 - Figjam :
+https://www.figma.com/board/cGdj52FoA9S0k25q6I7O4A/SEHATIN?node-id=0-1&p=f&t=s4myjTpLtvZD9Qpy-0
 
 
 ## 👨🏿‍🎨 Tim Pengembang - Donquixote (Don-qi-ho-te)
