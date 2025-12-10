@@ -10,6 +10,12 @@ Sehatin adalah aplikasi mobile yang dirancang sebagai solusi komprehensif untuk 
 4. Mini journal
 
 ## 🧠 Metode yang Digunakan
+Metode yang digunakan dalam pengembangan prototipe aplikasi ini adalah User-Centered Design (UCD) dengan tahapan:
+1. User research (wawancara & observasi)
+2. Penyusunan user persona dan user flow
+3. perancangan low fidelity (wireframe)
+4. pengembangan high fidelity
+5. Iterasi berbasis feedback
 
 ## 🎨 Design & Prototype 
 - Figma :
@@ -34,6 +40,7 @@ https://www.figma.com/board/cGdj52FoA9S0k25q6I7O4A/SEHATIN?node-id=0-1&p=f&t=s4m
 Dosen Pengampu: Amirul Iqbal, S.Kom., M.Eng.
 
 ## 📝 Link Laporan
+https://docs.google.com/document/d/1heoF_pKfbwicMByi2gQDMjRX4WHohvUWatcdv8k4L5A/edit?usp=sharing
 
 ## 📝 Link Proposal
 https://docs.google.com/document/d/1MwSUuJjdMTGKweqiq3cdwlvRATUqMIZo5fA_BBg_xKw/edit?tab=t.0
